@@ -28,6 +28,7 @@ Every note in this repository, with type and status. Updated with every commit. 
 *(derived evidence — `research-docs/`)*
 
 - `2026-10-08-interview-marta-bianchi.md` — interview · **complete** · primary
+- `2026-10-09-interview-alessandro-ferri.md` — interview · **complete** (soft time figures, app claims are rule-of-thumb — medium confidence) · primary
 
 ## Desk research
 
@@ -42,6 +43,8 @@ Every note in this repository, with type and status. Updated with every commit. 
 
 - `2026-10-08-transcript-marta-bianchi.md` — transcript · **raw** · primary
 - `2026-10-08-fieldnotes-marta-bianchi.md` — field notes · **raw** · primary
+- `2026-10-09-transcript-alessandro-ferri.md` — transcript · **raw** · primary
+- `2026-10-09-fieldnotes-alessandro-ferri.md` — field notes · **raw** · primary
 
 ## Scheduled — not yet collected
 
