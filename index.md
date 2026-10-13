@@ -32,6 +32,7 @@ Every note in this repository, with type and status. Updated with every commit. 
 *(derived evidence — `research-docs/`)*
 
 - `2026-10-05-desk-commute-times-europe.md` — desk-research · **needs-review** (ECA contents + several survey figures pending) · secondary
+- `2026-10-05-desk-delay-information.md` — desk-research · **needs-review** (board behaviour, word of mouth, breakdown claims pending) · secondary
 
 ## Raw
 
