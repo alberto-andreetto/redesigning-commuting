@@ -15,7 +15,7 @@ related: [plan.md, structure.md]
 
 # Index — the map of the research base
 
-Every note in this repository, with type and status. Updated with every commit. If a file is not listed here, it does not exist as far as the knowledge base is concerned.
+The derived research docs, with type and status. Updated with every commit. If a note is not listed here, it does not exist as far as the knowledge base is concerned. Raw artifacts (`raw/` — transcripts and field notes) are not listed here: each evidence note links to its own transcript and field notes in its `related` field.
 
 ## Base
 
@@ -37,17 +37,6 @@ Every note in this repository, with type and status. Updated with every commit. 
 
 - `2026-10-05-desk-commute-times-europe.md` — desk-research · **needs-review** (ECA contents + several survey figures pending) · secondary
 - `2026-10-05-desk-delay-information.md` — desk-research · **needs-review** (board behaviour, word of mouth, breakdown claims pending) · secondary
-
-## Raw
-
-*(artifacts — `raw/`, never edited after the session they record)*
-
-- `2026-10-08-transcript-marta-bianchi.md` — transcript · **raw** · primary
-- `2026-10-08-fieldnotes-marta-bianchi.md` — field notes · **raw** · primary
-- `2026-10-09-transcript-alessandro-ferri.md` — transcript · **raw** · primary
-- `2026-10-09-fieldnotes-alessandro-ferri.md` — field notes · **raw** · primary
-- `2026-10-10-transcript-sofia-colombo.md` — transcript · **raw** · primary
-- `2026-10-10-fieldnotes-sofia-colombo.md` — field notes · **raw** · primary
 
 ## Scheduled — not yet collected
 
