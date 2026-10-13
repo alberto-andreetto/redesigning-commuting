@@ -12,12 +12,12 @@ tags: [commute, milan-centrale]
 confidence: high
 grade: primary
 status: complete
-related: [plan.md, raw/2026-10-08-transcript-marta-bianchi.md, raw/2026-10-08-fieldnotes-marta-bianchi.md, research-docs/2026-10-05-desk-delay-information.md]
+related: [plan.md, raw/interview-marta-bianchi/2026-10-08-transcript-marta-bianchi.md, raw/interview-marta-bianchi/2026-10-08-fieldnotes-marta-bianchi.md, research-docs/2026-10-05-desk-delay-information.md]
 ---
 
 # Interview — Marta Bianchi, daily regional commuter
 
-Interviewed at Milano Centrale just after her morning arrival, twenty-five minutes, recorded with consent. Verbatim transcript: `raw/2026-10-08-transcript-marta-bianchi.md`; designer's observations from the session: `raw/2026-10-08-fieldnotes-marta-bianchi.md`. Quotes below reference the transcript timestamps.
+Interviewed at Milano Centrale just after her morning arrival, twenty-five minutes, recorded with consent. Verbatim transcript: `raw/interview-marta-bianchi/2026-10-08-transcript-marta-bianchi.md`; designer's observations from the session: `raw/interview-marta-bianchi/2026-10-08-fieldnotes-marta-bianchi.md`. Quotes below reference the transcript timestamps.
 
 ## Who she is
 

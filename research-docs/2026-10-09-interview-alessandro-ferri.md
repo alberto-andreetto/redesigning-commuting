@@ -12,12 +12,12 @@ tags: [commute, milan-centrale]
 confidence: medium
 grade: primary
 status: complete
-related: [plan.md, raw/2026-10-09-transcript-alessandro-ferri.md, raw/2026-10-09-fieldnotes-alessandro-ferri.md, research-docs/2026-10-08-interview-marta-bianchi.md, research-docs/2026-10-05-desk-delay-information.md]
+related: [plan.md, raw/interview-alessandro-ferri/2026-10-09-transcript-alessandro-ferri.md, raw/interview-alessandro-ferri/2026-10-09-fieldnotes-alessandro-ferri.md, research-docs/2026-10-08-interview-marta-bianchi.md, research-docs/2026-10-05-desk-delay-information.md]
 ---
 
 # Interview — Alessandro Ferri, long-ride regional commuter
 
-Interviewed at Milano Centrale after his morning arrival, twenty-five minutes, recorded with consent. Verbatim transcript: `raw/2026-10-09-transcript-alessandro-ferri.md`; designer's observations from the session: `raw/2026-10-09-fieldnotes-alessandro-ferri.md`. Quotes below reference the transcript timestamps. Confidence is **medium**: his time figures are soft (fifty minutes / "just under an hour" [00:00:44]) and his claims about the app's behavior are his own rule of thumb, not a measurement.
+Interviewed at Milano Centrale after his morning arrival, twenty-five minutes, recorded with consent. Verbatim transcript: `raw/interview-alessandro-ferri/2026-10-09-transcript-alessandro-ferri.md`; designer's observations from the session: `raw/interview-alessandro-ferri/2026-10-09-fieldnotes-alessandro-ferri.md`. Quotes below reference the transcript timestamps. Confidence is **medium**: his time figures are soft (fifty minutes / "just under an hour" [00:00:44]) and his claims about the app's behavior are his own rule of thumb, not a measurement.
 
 ## Who he is
 

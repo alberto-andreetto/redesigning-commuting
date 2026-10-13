@@ -12,7 +12,7 @@ tags: [commute, milan-centrale]
 confidence: high
 grade: primary
 status: raw
-related: [plan.md, research-docs/2026-10-10-interview-sofia-colombo.md, raw/2026-10-10-fieldnotes-sofia-colombo.md]
+related: [plan.md, research-docs/2026-10-10-interview-sofia-colombo.md, raw/interview-sofia-colombo/2026-10-10-fieldnotes-sofia-colombo.md]
 ---
 
 # Transcript — Sofia Colombo interview (raw, never edited)

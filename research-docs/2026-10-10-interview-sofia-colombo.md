@@ -12,12 +12,12 @@ tags: [commute, milan-centrale]
 confidence: high
 grade: primary
 status: complete
-related: [plan.md, raw/2026-10-10-transcript-sofia-colombo.md, raw/2026-10-10-fieldnotes-sofia-colombo.md, research-docs/2026-10-09-interview-alessandro-ferri.md, research-docs/2026-10-08-interview-marta-bianchi.md, research-docs/2026-10-05-desk-delay-information.md]
+related: [plan.md, raw/interview-sofia-colombo/2026-10-10-transcript-sofia-colombo.md, raw/interview-sofia-colombo/2026-10-10-fieldnotes-sofia-colombo.md, research-docs/2026-10-09-interview-alessandro-ferri.md, research-docs/2026-10-08-interview-marta-bianchi.md, research-docs/2026-10-05-desk-delay-information.md]
 ---
 
 # Interview — Sofia Colombo, off-peak shift commuter
 
-Interviewed at Milano Centrale on a Saturday afternoon after her shift, twenty-five minutes, recorded with consent. Verbatim transcript: `raw/2026-10-10-transcript-sofia-colombo.md`; designer's observations from the session: `raw/2026-10-10-fieldnotes-sofia-colombo.md`. Quotes below reference the transcript timestamps.
+Interviewed at Milano Centrale on a Saturday afternoon after her shift, twenty-five minutes, recorded with consent. Verbatim transcript: `raw/interview-sofia-colombo/2026-10-10-transcript-sofia-colombo.md`; designer's observations from the session: `raw/interview-sofia-colombo/2026-10-10-fieldnotes-sofia-colombo.md`. Quotes below reference the transcript timestamps.
 
 ## Who she is
 

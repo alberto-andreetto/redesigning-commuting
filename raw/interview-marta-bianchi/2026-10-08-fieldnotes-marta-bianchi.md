@@ -12,7 +12,7 @@ tags: [commute, milan-centrale]
 confidence: medium
 grade: primary
 status: raw
-related: [plan.md, raw/2026-10-08-transcript-marta-bianchi.md, research-docs/2026-10-08-interview-marta-bianchi.md]
+related: [plan.md, raw/interview-marta-bianchi/2026-10-08-transcript-marta-bianchi.md, research-docs/2026-10-08-interview-marta-bianchi.md]
 ---
 
 # Field notes — Marta Bianchi interview

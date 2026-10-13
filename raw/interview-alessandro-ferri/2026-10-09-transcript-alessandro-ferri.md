@@ -12,7 +12,7 @@ tags: [commute, milan-centrale]
 confidence: medium
 grade: primary
 status: raw
-related: [plan.md, research-docs/2026-10-09-interview-alessandro-ferri.md, raw/2026-10-09-fieldnotes-alessandro-ferri.md]
+related: [plan.md, research-docs/2026-10-09-interview-alessandro-ferri.md, raw/interview-alessandro-ferri/2026-10-09-fieldnotes-alessandro-ferri.md]
 ---
 
 # Transcript — Alessandro Ferri interview (raw, never edited)
